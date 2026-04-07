@@ -99,7 +99,7 @@ This makes the system agentic, meaning it independently decides how to use tools
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/sanketparjane/AgenticAI_Driven_Multiagent_Framework_For_Finiancial_Data_Analysis/tree/main
 cd your-repo-name
 ```
 
