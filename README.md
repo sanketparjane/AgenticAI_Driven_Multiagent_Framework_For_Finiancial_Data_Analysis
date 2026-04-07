@@ -3,7 +3,7 @@
 
 ## 📌 Overview
 
-This project is a Streamlit-based web application that combines financial data analysis with an autonomous multi-agent AI system. It allows users to analyze multiple stocks, compare their performance, and generate an AI-driven investment report — all in one place.
+This project is a Streamlit-based web application that combines financial data analysis with an autonomous multi-agent AI system. It allows users to analyze multiple stocks, compare their performance, and generate an AI-driven investment report all in one place.
 
 The system is designed to simulate how different types of financial analysts work together and then produce a final decision, similar to a real-world investment committee.
 
